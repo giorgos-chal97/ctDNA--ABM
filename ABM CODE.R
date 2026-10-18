@@ -1,9 +1,3 @@
-# ============================================================
-# REQUIRED PACKAGES
-# ============================================================
-
-# Run this ONCE if the packages are not already installed:
-
 #install.packages(c("dplyr", "ggplot2", "tidyr", "scales"))
 library(dplyr)
 library(ggplot2)
